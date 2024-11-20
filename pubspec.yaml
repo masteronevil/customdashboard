@@ -1,0 +1,25 @@
+name: customdashboard
+description: "Custom Dashboard"
+version: 0.0.4
+homepage: https://github.com/masteronevil/customdashboard
+repository: https://github.com/masteronevil/customdashboard
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - assets/gif/
+    - assets/screenshort/
