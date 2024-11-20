@@ -20,3 +20,7 @@
 * Screenshot Updated
 * Added Gif
 * README.md Updated image not loading issue fixed
+## 0.0.5
+* dependency issue fixed
+* example code updated
+
