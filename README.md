@@ -28,7 +28,7 @@ responsive design is also supported.
 
 ## Getting Started
 
-To use this package, add the following to your `pubspec.yaml` file:
+To use this package, add the following to yours `pubspec.yaml` file:
 
 ```yaml
 dependencies:
