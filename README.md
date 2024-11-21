@@ -45,8 +45,8 @@ import 'package:customdashboard/customdashboard.dart';
 
 Here are some screenshots of the dashboard in action:
 
-![desktop](assets/screenshort/desktops.png)
-![mobile](assets/screenshort/mobiles.png)
+![desktop](assets/screenshot/desktops.png)
+![mobile](assets/screenshot/mobiles.png)
 
 ## Demo
 
